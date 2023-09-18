@@ -1,0 +1,24 @@
+.video{
+    width: 100%;
+    height: 60%;
+}
+
+.containerVideo{
+    padding-top: 5%;
+}
+
+.containerTextoVideo{
+    margin-top: -30%;
+    padding-left: 5%;
+    margin-bottom: 350px;
+}
+
+.tituloVideo{
+    color: white;
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.textVideo{
+    color: white;
+}

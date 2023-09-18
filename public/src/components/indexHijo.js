@@ -1,0 +1,6 @@
+export {default as NavBar} from "./navBar/navBar.js"
+export {default as Banner} from "./banner/banner.js"
+export {default as ButtonInfo} from "./buttonInfor/buttonInfor.js"
+export {default as BannerDos} from "./bannerDos/bannerDos.js"
+export {default as BannerVideo} from "./bannerVideo/bannerVideo.js"
+export {default as Card} from "./card/card.js"

@@ -1,0 +1,25 @@
+.banner{
+    font-family: 'Geologica', sans-serif;
+    padding-top: 70px;
+    padding-left: 75px;
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    align-items: center;
+}
+
+.tituloBanner{
+    font-size: 45px;
+    font-weight: 400;
+    width: 600px;
+}
+
+
+.imgBanner{
+    align-items: center;
+}
+
+.imgBanner2{
+    width: 570px;
+    border-radius: 15px;
+}

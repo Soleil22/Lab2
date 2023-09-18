@@ -1,0 +1,23 @@
+
+.container{
+    font-family: 'Geologica', sans-serif;
+    padding-top: 15px;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    gap: 630px;
+}
+
+.iconNav{
+    width: 86px;
+}
+
+.part1Nav{
+    display: flex;
+    padding-left: 25px;
+    gap: 15px;
+}
+
+.part2Nav{
+    display: flex;
+    gap: 15px;
+}
